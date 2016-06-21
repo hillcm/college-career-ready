@@ -1,1 +1,1 @@
-# JavaScript Bootcamp Slides
+# College and Career Readiness Slides 
